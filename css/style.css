@@ -43,6 +43,8 @@ body{
 	border-radius: 16px;
 	border: 2px solid rgba(255, 255, 255, .3);
 	background: #ddd;
+	background-position: center;
+	background-size: cover;
 }
 
 #drag-box #preview img{
