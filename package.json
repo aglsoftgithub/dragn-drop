@@ -1,0 +1,29 @@
+{
+  "name": "dragn-drop",
+  "version": "1.0.0",
+  "description": "Drag'n drop simple system",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aglsoftgithub/dragn-drop.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "drag'n",
+    "drop",
+    "files",
+    "image",
+    "pdf",
+    "html"
+  ],
+  "author": "Adrien Lagrange",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aglsoftgithub/dragn-drop/issues"
+  },
+  "homepage": "https://github.com/aglsoftgithub/dragn-drop#readme"
+}
