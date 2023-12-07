@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+	background-image: url(../img/background.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#main-content{
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#drag-content h2{
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 0 0 3px #000;
+}
+
+#drag-box{
+	width: 500px;
+	height: 320px;	
+	padding: 21px;
+	border-radius: 16px;
+	background: rgba(0, 0, 0, .1);
+	backdrop-filter: blur(7px);
+	border: 2px solid rgba(255, 255, 255, .3);
+}
